@@ -1,0 +1,9 @@
+{
+	"name": "dfproadfharsh",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a94aeb73-a12f-4233-98bc-2848660caaa0",
+		"tenantId": "de0eb862-fc54-47c7-bf31-8c57fea174f5"
+	}
+}
